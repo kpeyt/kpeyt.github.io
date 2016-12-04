@@ -1,0 +1,85 @@
+
+
+#brandbar{
+    
+    background-color: #FD5959;
+
+}
+body {
+    background-color: #A64942;
+    font-family: 'Bungee', cursive;
+}
+
+.padding-nav-tile {
+     color: white;   
+}
+
+img{
+	width: 80%;
+}
+
+.fa{
+    font-size: 30px; 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.fa-spotify {
+    color: green;
+}
+
+.logo-container {
+    background-color: white;
+} 
+.logo-container img {
+    width: 400px; 
+}
+
+.main-hadding{
+	margin-bottom: 25px;
+    margin-top: 25px;
+    color: white;
+    letter-spacing: 4px;
+}
+
+.padding-nav-tile{
+    font-family: 'Bungee', cursive;
+    padding: 10px;
+    margin:0px;
+}
+
+.horse {
+    width: 200px
+}
+
+.blurbs{
+	margin-bottom: 25px;
+    margin-top: 25px;
+    color: black;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.bookings{
+	margin-bottom: 25px;
+    margin-top: 25px;
+    color: black;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.offers{
+	margin-bottom: 25px;
+    margin-top: 25px;
+    color: black;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+.level-of-exp{
+	margin-bottom: 25px;
+    margin-top: 25px;
+    color: black;
+    letter-spacing: 4px;
+    text-align: center;
+}
